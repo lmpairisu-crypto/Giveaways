@@ -1,0 +1,13 @@
+{
+  "name": "lampoon-giveaway-bot",
+  "version": "1.0.0",
+  "description": "LAMPOON Giveaway Role Claim Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.25.1",
+    "dotenv": "^17.2.3"
+  }
+}
